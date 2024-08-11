@@ -1,1 +1,1 @@
-# VALIDATION-OF-SATELLITE-DATA
+This script provides insight into the validation of a satellite product
